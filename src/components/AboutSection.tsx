@@ -17,13 +17,11 @@ const AboutSection = () => {
           </h2>
           <div className="max-w-4xl mx-auto">
             <p className="text-base sm:text-lg md:text-xl text-foreground mb-4 sm:mb-6 fade-in-up stagger-2 px-4">
-              The OWIF memecoin was born with one single mission: to keep the olf hat vibes alive when new hats get old. Getting involved is easy - secure a
-              bag of $OWIF then update your PFP to the iconic OWIF image or your own
-              unique olf hat creation. That's it - you're officially on the team and ready for
-              battle. Welcome to the olf hat crew young soldier.
+              The $OWIF memecoin was born with one single mission: to keep the original hat vibes alive and it's existence made known! Getting involved is easy - secure a bag of OWIF then update your PFP to the iconic OWIF image or your own unique olf hat creation. That's it - you're officially on the OWIF team and ready for battle. The main goal is to spread the lore! Welcome to our Last Hat club!
+
             </p>
             <p className="text-base sm:text-lg md:text-xl text-primary font-bold wiggle scale-in stagger-3">
-              **Your mission = hat up more recruits like your life depends on it**
+    Your mission = hat up more recruits like your life depends on it
             </p>
           </div>
         </div>
@@ -42,10 +40,10 @@ const AboutSection = () => {
           <div className="max-w-xs sm:max-w-md mx-auto">
             <img 
               src={dogImage3} 
-              alt="OWIF Dog with Hat" 
+              alt="Original WIF" 
               className="w-full rounded-2xl mb-4 hover-lift hover-glow"
             />
-            <p className="text-sm sm:text-base text-muted-foreground italic fade-in-up stagger-6">OWIF - Only Olf Hat</p>
+            <p className="text-sm sm:text-base text-muted-foreground italic fade-in-up stagger-6">The original hat</p>
           </div>
         </div>
       </div>
