@@ -11,29 +11,24 @@ const Header = () => {
           TELEGRAM
         </a>
         <a 
-          href="#" 
+          href="https://twitter.com/OriginalWifHat" 
           className="text-xs sm:text-sm font-medium text-primary-foreground hover-lift whitespace-nowrap px-2 py-1 rounded-lg hover:bg-primary-foreground/10 transition-all duration-300"
         >
           TWITTER
         </a>
         <a 
-          href="#" 
+          href="https://solscan.io/token/2wnXhHCZ8Y1cRVVykgHJ2VU8oExJo3goRGPLEgfC3jEK" 
           className="text-xs sm:text-sm font-medium text-primary-foreground hover-lift whitespace-nowrap px-2 py-1 rounded-lg hover:bg-primary-foreground/10 transition-all duration-300"
         >
           SOLSCAN
         </a>
         <a 
-          href="#" 
+          href="https://dexscreener.com/solana/g5qfsajvmvkp7um3nmsmagzpfwvmdgqyr3dfz9bqplte" 
           className="text-xs sm:text-sm font-medium text-primary-foreground hover-lift whitespace-nowrap px-2 py-1 rounded-lg hover:bg-primary-foreground/10 transition-all duration-300"
         >
           DEXSCREENER
         </a>
-        <a 
-          href="#" 
-          className="text-xs sm:text-sm font-medium text-primary-foreground hover-lift whitespace-nowrap px-2 py-1 rounded-lg hover:bg-primary-foreground/10 transition-all duration-300"
-        >
-          DEXTOOLS
-        </a>
+       
       </nav>
     </header>
   );
