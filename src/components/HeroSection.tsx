@@ -17,7 +17,7 @@ const HeroSection = () => {
 
           {/* Main Heading */}
           <h1 className="text-4xl sm:text-6xl md:text-7xl lg:text-9xl font-black mb-6 slide-in-up stagger-1">
-            <span className="text-foreground hover-glow inline-block">ONLY</span>{" "}
+            <span className="text-foreground hover-glow inline-block">ORIGINAL</span>{" "}
             <span className="text-gradient inline-block wiggle">WIF</span>{" "}
             <span className="text-foreground hover-glow inline-block">HAT</span>
           </h1>
