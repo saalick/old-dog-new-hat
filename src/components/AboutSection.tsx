@@ -27,6 +27,7 @@ const AboutSection = () => {
         </div>
 
         <div className="text-center mb-12 sm:mb-16 bounce-in stagger-4">
+          <a href='https://twitter.com/i/communities/1954728136962191441'>
           <Button 
             size="lg" 
             className="w-full sm:w-auto bg-primary hover:bg-primary/90 text-primary-foreground px-8 sm:px-12 py-4 sm:py-6 text-base sm:text-lg font-bold rounded-full hover-lift glow"
@@ -34,6 +35,7 @@ const AboutSection = () => {
             <Users className="mr-2 h-5 w-5 sm:h-6 sm:w-6" />
             View Community Members
           </Button>
+            </a>
         </div>
 
         <div className="text-center scale-in stagger-5">
