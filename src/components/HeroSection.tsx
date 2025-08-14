@@ -1,6 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Users } from "lucide-react";
 import dogImage1 from "@/assets/dog-image-1.jpg";
+import PfpButton from "@/components/PfpButton";
 
 const HeroSection = () => {
   return (
@@ -29,7 +30,6 @@ const HeroSection = () => {
 
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 justify-center items-center mb-16 scale-in stagger-3">
-            <a href="https://twitter.com/i/communities/1954728136962191441">
             <Button 
               size="lg" 
               className="w-full sm:w-auto bg-primary hover:bg-primary/90 text-primary-foreground px-8 sm:px-12 py-4 sm:py-6 text-base sm:text-lg font-bold rounded-full hover-lift glow"
@@ -47,6 +47,7 @@ const HeroSection = () => {
               Join Telegram
             </Button>
               </a>
+            <PfpButton />
           </div>
 
           {/* Contract Address */}
