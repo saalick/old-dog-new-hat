@@ -17,10 +17,10 @@ const Header = () => {
           TWITTER
         </a>
         <a 
-          href="https://solscan.io/token/2wnXhHCZ8Y1cRVVykgHJ2VU8oExJo3goRGPLEgfC3jEK" 
+          href="https://owif-roadmap.vercel.app/" 
           className="text-xs sm:text-sm font-medium text-primary-foreground hover-lift whitespace-nowrap px-2 py-1 rounded-lg hover:bg-primary-foreground/10 transition-all duration-300"
         >
-          SOLSCAN
+          ROADMAP
         </a>
         <a 
           href="https://dexscreener.com/solana/g5qfsajvmvkp7um3nmsmagzpfwvmdgqyr3dfz9bqplte" 
